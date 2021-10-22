@@ -5,7 +5,7 @@ import hexToRgb from './Hex2rgb/Hex2rgb';
 const INITIONAL_COLOR = {
    rgb: '',
    hex: '#',
-   backgroundColor: '#ffffff',
+   backgroundColor: '#ffaaaa',
 };
 
 export default function Converter() {
